@@ -1,17 +1,13 @@
-# React + Vite Project Template
+# Phake Store
 
-## Additions:
+Live Demo: TODO
 
-- Eslint (linter)
+## Fake storefront built using:
 
-- Normalize.css (css reset)
+- React & Vite
 
-- Vitest + jsdom (for testing)
+- React Router
 
-- Prettier + eslint-config-prettier (code formatter)
+- Chakra UI
 
-- Proptypes (for type checking)
-
-- React-router-dom (for routing)
-
-- run `npm install`
+- Fake Store API: https://fakestoreapi.com/
