@@ -1,6 +1,6 @@
 # Phake Store
 
-Live Demo: TODO
+Live Demo: https://shopping-site-cjz.pages.dev/
 
 ## Fake storefront built using:
 
